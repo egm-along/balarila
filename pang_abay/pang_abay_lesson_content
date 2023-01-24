@@ -5,5 +5,6 @@
 	example: [{"correct", "Bakit ka lumalakad nang mabagal?"}],
 	additional_text_filipino: "(Sinasagot ng "\mabagal\" kung paano lumalakad ang taong tinatanong.)"
 	additional_text_english: "(\"Mabagal\" or slowly answers how the person was walking or \"lumalakad.\")"
-	reference_text: "(Balarila, p. 402-403)" 
+	reference_text: "(Balarila, p. 402-403)"
+	is_available: "true"
 },
