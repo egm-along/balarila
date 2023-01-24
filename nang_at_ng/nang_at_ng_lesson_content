@@ -1,11 +1,22 @@
+{
+	lesson_id: "nang_at_ng",
+	lesson_filipino: "Pang-abay\n · Ito ay mga salitang umuuri sa isang pang-uri o pandiwa.\n · Ipinapakilala nito ang kanilang paraan, panahon, pinangyarihan, at katiyakan.",
+	lesson_english: "Adverbs\n · These are words and phrases that describe an adjective or verb.\n · They answer \"in what way,\" \"when,\" \"where,\" and \"how certain.\"",
+	example: [{"correct", "Bakit ka lumalakad nang mabagal?"}],
+	additional_text_filipino: "(Sinasagot ng "\mabagal\" kung paano lumalakad ang taong tinatanong.)"
+	additional_text_english: "(\"Mabagal\" or slowly answers how the person was walking or \"lumalakad.\")"
+	reference_text: "(Balarila, p. 402-403)" 
+},
+
+
 TAGALOG
 
-Ginagamit ang nang...
-1. Bilang katumbas ng "noong" (Umalis siya nang iniwan mo siya.)
-2. Bilang "upang o para" (Mag-ehersiyo ka nang lumusog ka.)
-3. Para sa pagsasabi ng pang-abay (Tumakbo ka nang mabilis.)
-4. Bilang pang-angkop ng salitang inuulit (Huwag kang kumain nang kumain.)
-5. Bilang magkasamang "na" at "ng" (Sobra nang kulit ng mga bata.)
+Ginagamit ang \"nang\" bilang...\n
+\t· \"noong\" (Umalis siya nang iniwan mo siya.) \n
+\t· \"upang o para\" (Mag-ehersiyo ka nang lumusog ka.) \n
+\t· Kasama ng pang-abay (Tumakbo ka nang mabilis.) \n
+\t· Bilang pang-angkop ng salitang inuulit (Huwag kang kumain nang kumain.) \n
+\t· Bilang magkasamang "na" at "ng" (Sobra nang kulit ng mga bata.) \n
 
 Sa ibang pagkakataon ay kailangan nang gamitin ang "ng," gaya ng:
 1. Oras (ika-pito ng umaga)
