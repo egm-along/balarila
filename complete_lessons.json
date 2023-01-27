@@ -1,0 +1,75 @@
+{
+  "lessons": [
+    {
+      "lesson_id": "pang_abay",
+      "title_filipino": "Pang-abay",
+      "title_english:": "Adverbs",
+      "content_filipino": "Ito ay mga salitang umuuri sa isang pang-uri o pandiwa.\n · Ipinapakilala nito ang kanilang paraan, panahon, pinangyarihan, at katiyakan.",
+      "content_english": "These are words and phrases that describe an adjective or verb.\n · They answer \"in what way,\" \"when,\" \"where,\" and \"how certain.\"",
+      "example_filipino": "Bakit ka lumalakad nang mabagal?",
+      "example_english": "Bakit ka lumalakad nang mabagal?\n(Why do you walk slowly?)",
+      "additional_text_filipino": "(Sinasagot ng \"mabagal\" kung paano lumalakad ang taong tinatanong.)",
+      "additional_text_english": "(\"Mabagal\" or slowly answers how the person was walking or \"lumalakad.\")",
+      "reference_text": "(Balarila, p. 402-403)",
+      "number_of_completed_items": 0,
+      "is_available": "true"
+    },
+    {"lesson_id":  "panghalip"},
+    {
+      "lesson_id": "nang_at_ng",
+      "title_filipino": "Nang at ng",
+      "title_english": "Nang and ng",
+      "content_filipino": "Ginagamit ang \"nang\" bilang...\n\t\uD83D\uDCA0 \"noong\" (Umalis siya nang iniwan mo siya.) \n\t\uD83D\uDCA0 \"upang o para\" (Mag-ehersiyo ka nang lumusog ka.) \n\t\uD83D\uDCA0 kasama ng pang-abay (Tumakbo ka nang mabilis.) \n\t\uD83D\uDCA0 pang-angkop ng salitang inuulit (Huwag kang kumain nang kumain.) \n\t\uD83D\uDCA0 magkasamang \"na\" at \"ng\" (Sobra nang kulit ng mga bata.) \n\nSa ibang pagkakataon ay kailangan nang gamitin ang \"ng,\" gaya ng:\n\t\uD83D\uDCA0 Oras (ika-pito ng umaga)\n\t\uD83D\uDCA0 Pag-aari (pagkain ng bata)\n\t\uD83D\uDCA0 Tanda ng gumaganap sa pandiwa (Siya ang nagdala ng pizza sa classroom.)",
+      "content_english": "Use \"nang\" as...\n\t\uD83D\uDCA0 \"Noong\" or \"when\"  (Umalis siya nang iniwan mo siya.)\n\t\uD83D\uDCA0 \"Upang o para\" or \"so that/in order to\" (Mag-ehersiyo ka nang lumusog ka.)\n\t\uD83D\uDCA0 A companion for adverbs (Tumakbo ka nang mabilis.)\n\t\uD83D\uDCA0 Linker for repeated words (Huwag kang kumain nang kumain.)\n\t\uD83D\uDCA0 Combined \"na\" and \"ng\" (Sobra nang kulit ng mga bata.)\n\nIn other times, use \"ng.\" Examples include:\n\t\uD83D\uDCA0 Time (ika-pito ng umaga)\n\t\uD83D\uDCA0 Possession (pagkain ng bata)\n\t\uD83D\uDCA0 A marker for the verb's actor (Siya ang nagdala ng pizza sa classroom.)",
+      "example_filipino": null,
+      "example_english": null,
+      "additional_text_filipino": null,
+      "additional_text_english": null,
+      "reference_text": "(KWF Manwal sa Masinop na Pagsulat, pp. 38–39)",
+      "number_of_completed_items": 0,
+      "is_available": "true"
+    },
+    {
+      "lesson_id": "din_at_rin",
+      "title_filipino": "Din at rin",
+      "title_english": "Din and rin",
+      "content_filipino": "Ang pagpapalit ng \"d\" tungo \"r\" sa daw/raw, din/rin, at dito/rito ay para sa pagpapadulas ng salita.\n\n\"D\" ang dapat gamitin kung sumusunod ito sa katinig (Halimbawa, \"Kumain daw siya.\")\nSamantala, \"r\" ang ginagamit sa sumusunod sa patinig (a, e, i, o, u) o \"glide sounds\" (w at y).\n\nHalimbawa:\n ✔️ Kumain tayo roon ( ❌ Kumain tayo doon.)\n ✔️ Ikaw raw. ( ❌ Ikaw daw.)\n ✔️ Pasaway raw siya. ( ❌ Pasaway daw siya)\n ✔️ Pumunta ka rito. ( ❌ Pumunta ka dito.)\n\nNgunit kung ito ay sumusunod sa pantig na may \"r\", \nkahit na may patinig pa (gaya ng \"maaari\" o \"araw\"), \ndapat gamitin ang \"d.\"\n\nHalimbawa:\n ✔️ Maaari din ( ❌ Maaari rin.)\n ✔️ Maaraw daw. ( ❌ Maaraw raw.)\n\nSubalit, hindi ito ipinagbabawal sa mga tula lalo na kung may layuning bumuo ng aliterasyon.",
+      "content_english": "We substitute \"d\" with \"r\" (as in \"daw/raw,\" \"din/rin,\" and \"dito/rito\")\nto make pronunciation smoother.\n\nUse \"d\" if a consonant sound precedes it. (For example, \"Kumain daw siya.\").\nBut use \"r\" if a vowel or a glide sound (w or y) precedes it.\n\nExamples:\n✔️ Kumain tayo roon ( ❌ Kumain tayo doon.)\n✔️ Ikaw raw. ( ❌ Ikaw daw.)\n✔️ Pasaway raw siya. ( ❌ Pasaway daw siya)\n✔️ Pumunta ka rito. ( ❌ Pumunta ka dito.)\n\nBut if a syllable with \"r\" precedes it, although it has a vowel,\n(like \"maaari\" or \"araw\"), use \"d.\"\n\nExamples:\n✔️ Maaari din ( ❌ Maaari rin.)\n✔️ Maaraw daw. ( ❌ Maaraw raw.)\n\nHowever, this is not strictly prohibited in poetry, especially when alliteration is intended.",
+      "example_filipino": null,
+      "example_english": null,
+      "additional_text_filipino": null,
+      "additional_text_english": null,
+      "reference_text": "(KWF Manwal sa Masinop na Pagsulat, p. 35–37)",
+      "number_of_completed_items": 0,
+      "is_available": "true"
+    },
+    {
+      "lesson_id":  "pa_at_na",
+      "title_filipino": "Pa, na,at ibang mga salita",
+      "title_english": "Enclitic particles and other words",
+      "content_filipino": "Sa Filipino, walang mga salitang \"parin,\" \"narin,\" \"palang,\" \"nalang,\" o \"nanaman.\"\nBukod na salita ang mga pang-angkop na \"na\" at \"pa.\"\n\n💠 Pa rin (Mahal pa rin kita.)\n💠 Na rin (Pumunta na rin siya sa bahay.)\n💠 Pa lang (Nagsisimula pa lang ako.)\n💠 Na lang (Tatapusin ko na lang ito bago umuwi)\n💠 Na naman (Ayan ka na naman.)",
+      "content_english": "\"Parin,\" \"narin,\" \"palang,\" \"nalang,\" and \"nanaman\" are not words in the Filipino language.\nEnclitic particles like \"na\" and \"pa\" are separate words.\n\n💠 Pa rin - still, nevertheless\n💠 Na rin - also, finally\n💠 Pa lang - so far\n💠 Na lang - just\n💠 Na naman - again",
+      "example_filipino": null,
+      "example_english": null,
+      "additional_text_filipino": null,
+      "additional_text_english": null,
+      "reference_text": null,
+      "number_of_completed_items": 0,
+      "is_available": "true"
+    },
+    {
+      "lesson_id":  "kung_at_kapag",
+      "title_filipino": "Kung at kapag",
+      "title_english": "Kung and kapag (if and when)",
+      "content_filipino": "Madalas ipagpalit ang \"kung\" at \"kapag,\" ngunit magkaiba sila:\n💠 Ang \"kung\" ay katumbas ng \"if\"—ginagamit sa mga posibleng sitwasyon at mga di makatotohanang kondisyon. \n💠 Samantala, ang \"kapag\" ay katumbas ng \"when\"—ginagamit kapag ang situwasyon ay tiyak at sigurado.\n",
+      "content_english": "Many people use \"kung\" and \"kapag\" interchangeably, but they are different:\n💠 \"Kung\" is \"if.\" It is used for possible situations and unreal conditions.\n💠 \"Kapag\" is \"when,\" which is for certain and sure conditions.",
+      "example_filipino": "✔ Ano'ng balak mo kung sinagot ka na niya?\n ✔ Mag-message ka sa akin kapag nakauwi ka na.",
+      "example_english": "✔ Ano'ng balak mo kung sinagot ka na niya? (What's your plan if she answers you?)\n✔ Mag-message ka sa akin kapag nakauwi ka na. (Message me when you get home.)",
+      "additional_text_filipino": null,
+      "additional_text_english": null,
+      "reference_text": null,
+      "number_of_completed_items": 0,
+      "is_available": "true"
+    }
+  ]
+}
