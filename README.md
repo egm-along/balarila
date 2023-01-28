@@ -7,14 +7,14 @@ The repository for the Balarila app (Capstone Project)
 
     {
         "id": 1,
-        "question": "____ tiningnan mula sa kalawakan, ang ilog ay mukhang isang malaking ahas.",
+        "question": "____ kumakain siya, lagi siyang nakangiti.",
         "prompt": "Alin ang tamang gamitin?",
         "choices": ["Kapag", "Kung"],
         "correct_answer": "Kapag"   
     },
     {
         "id": 2,
-        "question": "____ ako ay napagalitan napagtatatanto ko na ito ay para sa aking kabutihan.",
+        "question": "____ ako ay napapagalitan, alam kong para ito sa aking kabutihan.",
         "prompt": "Alin ang tamang gamitin?",
         "choices": ["Kapag", "Kung"],
         "correct_answer": "Kapag"   
@@ -23,12 +23,12 @@ The repository for the Balarila app (Capstone Project)
         "id": 3,
         "question": "Sumagot ka lang ____ tinatanong ka.",
         "prompt": "Alin ang tamang gamitin?",
-        "choices": ["Kapag", "Kung"],
-        "correct_answer": "Kapag"   
+        "choices": ["kapag", "kung"],
+        "correct_answer": "kapag"   
     },
     {
         "id": 4,
-        "question": "Mas maraming pang mamamatay ____ natuloy ang giyera.",
+        "question": "Sigurado ako! ____ sinagot niya na ako, ipapakilala ko siya sa magulang ko.",
         "prompt": "Alin ang tamang gamitin?",
         "choices": ["Kapag", "Kung"],
         "correct_answer": "Kapag"   
@@ -37,8 +37,8 @@ The repository for the Balarila app (Capstone Project)
         "id": 5,
         "question": "Masaya ako ____ nakikita kita.",
         "prompt": "Alin ang tamang gamitin?",
-        "choices": ["Kapag", "Kung"],
-        "correct_answer": "Kapag"   
+        "choices": ["kapag", "kung"],
+        "correct_answer": "kapag"   
     },
     {
         "id": 6,
