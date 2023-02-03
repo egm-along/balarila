@@ -9,21 +9,21 @@ paggamit sa mga ito.
 Narito ang ilan sa mga tuntunin sa wastong 
 paggamit ng panghalip:
 
-- "Ako," hindi "me." 
-/ Ako ay kumakain.
-X Kumakain me.
+💠 "Ako," hindi "me." 
+✔️ Kumakain ako.
+❌ Kumakain me.
 
-- Ang "sila" at "nila" ay pumapalit sa pangalan ng dalawang tao at higit pa.
-/ Sila yung kumanta sa party.
-/ Ang gaganda ng boses nila.
+💠 Ang "sila" at "nila" ay pumapalit sa pangalan ng dalawang tao at higit pa.
+✔️ Sila yung kumanta sa party.
+✔️ Ang gaganda ng boses nila.
 
-- Ang "sina" at "nina" ay ginagamit kung sinusundan ng pangalan.
-/ Sina Jacq at Jay ang nag-piano kanina.
-/ Ang bait nina Piolo at Sam sa amin.
+💠 Ang "sina" at "nina" ay ginagamit kung sinusundan ng pangalan.
+✔️ Sina Jacq at Jay ang nag-piano kanina.
+✔️ Ang bait nina Piolo at Sam sa amin.
 
-- Ang "kay" ay para sa isang tao; ang "kina" ay para sa higit pa rito.
-/ Kay Nyl iyang ballpen.
-/ Kina Nyl at Jaymeleen 'yung bag.
+💠 Ang "kay" ay para sa isang tao; ang "kina" ay para sa higit pa rito.
+✔️ Kay Nyl iyang ballpen.
+✔️ Kina Nyl at Jaymeleen 'yung bag.
 
 (Walang "kila" sa wikang Filipino. Huwag itong gamitin.)
 
